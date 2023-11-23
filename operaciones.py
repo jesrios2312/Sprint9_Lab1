@@ -13,7 +13,7 @@ def dividir(a, b):
     return a / b
 
 if __name__ == "__main__":
-    print(sumar(5, 3))
-    print(restar(5, 3))
-    print(multiplicar(5, 3))
-    print(dividir(5, 3))
+    print(sumar(10, 2))
+    print(restar(10, 2))
+    print(multiplicar(10, 2))
+    print(dividir(10, 2))
