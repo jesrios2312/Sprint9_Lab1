@@ -18,7 +18,7 @@ class TestOperaciones(unittest.TestCase):
         self.assertEqual(multiplicar(-1, -1), 1)
 
     def test_dividir(self):
-        self.assertEqual(dividir(6, 2), 3)
+        self.assertEqual(dividir(8, 4), 2)
         self.assertEqual(dividir(-1, 1), -1)
         self.assertEqual(dividir(4, 2), 2)
 
