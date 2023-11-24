@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39e8c061-f0c9-4a6e-9908-1bf0b53a6aaa" name="Changes" comment="" />
+    <list default="true" id="39e8c061-f0c9-4a6e-9908-1bf0b53a6aaa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operaciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/operaciones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_operaciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_operaciones.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +36,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.operaciones">
+  <component name="RunManager" selected="Python tests.Python tests in test_operaciones.py">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Sprint9_Lab1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,8 +123,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.operaciones" />
         <item itemvalue="Python tests.Python tests in test_operaciones.py" />
+        <item itemvalue="Python.operaciones" />
         <item itemvalue="Python tests.Python tests for test_operaciones.TestSumar" />
         <item itemvalue="Python tests.Python tests for test_operaciones.TestSumar.test_sumar" />
       </list>
